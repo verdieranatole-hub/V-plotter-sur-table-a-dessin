@@ -28,4 +28,4 @@ Ce paramètre a une influence direct sur la précision de la machine et correspo
 
 renseignez ici la longueur initiale des courroies. __Ce paramètre pose des problèmes de précisions majeurs en cas de mauvais renseignement.__
 
-![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/preprocesseur/images/longueurs_origine_des_courroies.png)
+![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/preprocesseur/images/longueur_origine_des_courroies.png)
