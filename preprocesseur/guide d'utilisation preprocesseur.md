@@ -16,7 +16,7 @@ Entrez ici le nom du fichier gcode transformé en coordonnée moteur, attention 
 
 Ce paramètres a une influence direct sur la précision de la machine et correspond a la fréquence à laquelle les coordonnées cartésiennes sont transformé en coordonnées moteurs
 
-![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/preprocesseur/images/taille des segments.png)
+![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/preprocesseur/images/taille_des_segments.png)
 
 ## paramètres géométriques de la machine
 
