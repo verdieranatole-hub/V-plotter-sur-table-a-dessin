@@ -12,15 +12,20 @@ Entrez ici le nom du fichier gcode que vous souhaitez transformé en coordonnée
 Entrez ici le nom du fichier gcode transformé en coordonnée moteur, attention il sera enregistré dans le même dossier que le programme, ou eventuellement dans un sous dossier de celui-ci dont le chemin sera à préciser.
 ![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/preprocesseur/images/OUTPUT_FILE.png)
 
+## distance entre les accroches des câbles
+
+Renseignez ici la distance entre les sorties de courroies. __Ce paramètre pose des problèmes de précisions majeurs en cas de mauvais renseignement.__
+
+![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/preprocesseur/images/distance_entre_les_sorties_de_courroies.png)
+
 ## préciser la longueur des divisions
 
-Ce paramètres a une influence direct sur la précision de la machine et correspond a la fréquence à laquelle les coordonnées cartésiennes sont transformé en coordonnées moteurs
+Ce paramètre a une influence direct sur la précision de la machine et correspond a la fréquence à laquelle les coordonnées cartésiennes sont transformé en coordonnées moteurs
 
 ![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/preprocesseur/images/taille_des_segments.png)
 
-## paramètres géométriques de la machine
+## longueurs initiales des courroies
 
-### distance entre les accroches des câbles
+renseignez ici la longueur initiale des courroies. __Ce paramètre pose des problèmes de précisions majeurs en cas de mauvais renseignement.__
 
-### longueurs initiales des courroies
-
+![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/preprocesseur/images/longueurs_origine_des_courroies.png)
