@@ -6,7 +6,7 @@ La partie logiciel demande encore à l'utilisateur de manipuler le programme, do
 
 ## choisir où le nouveau fichier gcode ira et son nom
 
-## paramètre géométriques de la machine
+## paramètres géométriques de la machine
 
 ### distance entre les accroches des câbles
 
