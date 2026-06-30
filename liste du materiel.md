@@ -11,7 +11,7 @@
 |poulie GT2 6mm|2|||
 |courroie GT2 6mm|5m|||
 |bague bronze ...|1|||
-|tasseau (matériau quelconque)|||
+|tasseau (matériau quelconque)|en fonction de la largeur souhaitez de la machine||
 |câble 3 fils souple|2,5m|||
 |câble avec prise secteur|1 de la longueur que vous souhaitez|||
 ||||estimé: 90€|
