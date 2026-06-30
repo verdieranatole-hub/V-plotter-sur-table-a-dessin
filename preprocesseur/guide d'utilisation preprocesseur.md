@@ -28,7 +28,7 @@ Ce paramètre a une influence direct sur la précision de la machine et correspo
 
 renseignez ici la durée de lever et de baisser du crayon en ms. __Si le temps est trop court, les trajectoires de liaisons seront partiellement visibles, si ce temps est trop long la vitesse de travail sera diminué.__
 
-![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/preprocesseur/images/delai_lever_et_baisser_de_stylo.png)
+![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/preprocesseur/images/delai_lever_et_baisser_de_crayon.png)
 
 ## longueurs initiales des courroies
 
