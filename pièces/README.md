@@ -1,1 +1,3 @@
+# piéces
 
+Les pièces sont à l'exception de celles proposé dans la liste du matériel imprimable en 3D, cependant de par la simplicité de celle-ci, les re-concevoir vous même en fonction du montage spécifique que vous souhaitez semble être une bonne option, l'élément le plus complexe étant certainement la nacelle qui comporte plusieurs pièces en mouvement les unes par rapport au autres , tout en gardant une certaine concentricité. Les contrepoids et la nacelle sont constitué d'acier, la précision n'ayant pas besoin d'être importante, ils devraient pouvoir être réalisé à la main à l'aide d'une scie à métaux, d'une perceuse et d'un jeu de tarot à main.
