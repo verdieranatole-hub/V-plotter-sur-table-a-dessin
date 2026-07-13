@@ -11,3 +11,5 @@ Le montage des pièces physique ne pose pas de problême particulier:
 ## étape 4: programmation des deux cartes
 
 ## étape 5: mise en place d'un marquage permettant une remise à zero sur votre support
+
+## étape 6: paramétrage de UGS
