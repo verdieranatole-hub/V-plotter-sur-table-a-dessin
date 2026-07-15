@@ -26,7 +26,7 @@ remarque: les points d'ancrage du moteur sur le rail pourrait aussi servir de po
 
 ## étape 3: montage du boitier électronique et câblage
 - vissez en place les composant dans le boitier, tous les composants ne peuvent se monter que dans un seul sens, le placement des arduino ne revet que peu d'importance.
-- placez un jumper entre la pin enable et ground du cnc shield ![](), en placez aussi 3 en dessous de chaque driver ![]()
+- placez un jumper entre la pin enable et ground du cnc shield ![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/images/jumper_enable.jpg), en placez aussi 3 en dessous de chaque driver ![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/images/jumper_sous_driver.jpg)
 
 
 ## étape 4: programmation des deux cartes
