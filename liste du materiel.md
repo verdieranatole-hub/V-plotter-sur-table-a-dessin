@@ -14,5 +14,5 @@
 |tasseau (matériau quelconque)|en fonction de la largeur souhaitez de la machine||
 |câble 3 fils souple|2,5m|||
 |câble avec prise secteur|1 de la longueur que vous souhaitez|||
-|ressort|1|||
+|ressort 30mm - 13mm - 11mm|1|||
 ||||estimé: 90€|
