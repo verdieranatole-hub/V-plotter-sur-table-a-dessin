@@ -3,8 +3,15 @@
 Le montage des pièces physique ne pose pas de problême particulier:
 
 ## étape 1: montage de la règle
+- Montez les poulies sur les moteurs, le décalage des poulies sera à régler une fois le V_plotter monté. !()[]
+- Montez le moteur sur les supports moteurs !()[] !()[];
+- vissez les deux supports moteurs à chaques extrémité de votre barre ou si votre configuration doit bouger au cours du temps passez directement à la prochaine étapes
+- vissez la partie haute du V-plotter sur le rail de la table à dessin
+
+remarque: les points d'ancrage du moteur sur le rail pourrait aussi servir de points d'encrage pour des cordes ou tout autres éléments perméttant de fixer le V-plotter là ou vous le souhaitez.
 
 ## étape 2: montage de la nacelle
+- Collez la bague bronze au fond de son logement, rajouter un point de colle
 
 ## étape 3: montage du boitier électronique et câblage
 
