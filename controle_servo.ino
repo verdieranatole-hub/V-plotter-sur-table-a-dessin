@@ -9,7 +9,7 @@ void setup() {
 }
 
 void loop() {
-  delayMicrosecond(5);
+  delayMicroseconds(5);
   if (analogRead(lecteur) > 1){
       servomoteur.write(140)
   }
