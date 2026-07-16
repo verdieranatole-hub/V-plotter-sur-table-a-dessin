@@ -49,6 +49,8 @@ La solution la plus simple consiste à placer un bout de scotch afin de repérer
 
 Une solution un peu plus précise serait de mettre un coin, à un emplacement donné du tableau et de venir calé physiquement le V-plotter dans le coin en désactivant les moteurs. Là aussi mesurer au mètre ruban la longeur des courroies et noté cette valeur.
 
+Remarque: la mesure de la courroie se prend de la sortie du support de courroie jusqu'à l'arrivé sur la poulie, il faut ajouter 40 mm afin de prendre en compte la distance du centre de la nacelle au centre des courroies.
+
 ## étape 6: paramétrage de UGS
 Afin d'envoyer les instructions à la machine ont utilise ugs, un logicielle gratuit, open source dont le lien est disponible [ici](https://winder.github.io/ugs_website/download/). Les prochaines étapes concernent le paramétrage de la machine.
 
