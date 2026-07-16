@@ -45,7 +45,7 @@ téléversez simplement le programme servomoteur.ino dans la carte
 
 ## étape 5: mise en place d'un marquage permettant une remise à zero sur votre support
 
-La solution la plus simple consiste à placer un bout de scotch afin de repérer visuellement le zero, sur lequel vous viendrez mesurer la longeur des courroies à l'aide d'un mètre ruban une fois ceci fait vous pourrez garder les mêmes longueur initial de courroie pour le reste de vos impressions à condition de partir initialement de ce repère bien que ce genre de repères soit à peu près suffisant pour configeurer la machine, il reste insuffisament précis pour permettre par exemple d'utiliser plusieurs couleurs au cours d'une même impression.
+La solution la plus simple consiste à placer un bout de scotch afin de repérer visuellement le zero, sur lequel vous viendrez mesurer la longeur des courroies à l'aide d'un mètre ruban une fois ceci fait vous pourrez garder les mêmes longueur initial de courroie pour le reste de vos impressions à condition de partir initialement de ce repère. Bien que ce genre de repères soit à peu près suffisant pour configeurer la machine, il reste insuffisament précis pour permettre par exemple d'utiliser plusieurs couleurs au cours d'une même impression.
 
 Une solution un peu plus précise serait de mettre un coin, à un emplacement donné du tableau et de venir calé physiquement le V-plotter dans le coin en désactivant les moteurs. Là aussi mesurer au mètre ruban la longeur des courroies et noté cette valeur.
 
