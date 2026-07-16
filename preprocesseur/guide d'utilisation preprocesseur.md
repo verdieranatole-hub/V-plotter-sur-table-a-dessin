@@ -35,3 +35,7 @@ renseignez ici la durée de lever et de baisser du crayon en ms. __Si le temps e
 renseignez ici la longueur initiale des courroies. __Ce paramètre pose des problèmes de précisions majeurs en cas de mauvais renseignement.__
 
 ![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/preprocesseur/images/longueur_origine_des_courroies.png)
+
+## nettoyer le Gcode de tout ce qui ne présente pas vraiment d'utilité
+
+retiré l'introduction du Gcode fini.
