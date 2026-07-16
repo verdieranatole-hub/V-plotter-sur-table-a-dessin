@@ -34,7 +34,7 @@ remarque: les points d'ancrage du moteur sur le rail pourrait aussi servir de po
 - relier les deux cartes arduino comme suit le port Z+ du CNC shield vers le port A0 de la deuxième arduino (fil jaune sur les images), le port 5V du CNC shield ves le port Vin de la deuxième arduino (fil orange sur l'image), le port gnd du cnc shield sur le port gnd de la deuxième arduino (fil bleue sur la photo) ![branchement sur le CNC shield](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/images/branchement_cnc_shield.jpg) ![branchement sur l'arduino secondaire](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/images/branchement_arduino_secondaire.jpg)
 - Brancher le cables du servo-moteur, l'alimentation (en rouge sur la photo suivante doit être placé sur le 5V (si votre servo à besoin d'une tension plus élevé ou plus basse faire le nécéssaire), la terre (ici en noir) doit être placé sur un gnd de la carte, quand a l'information (ici en bleue) doit être branché sur le port 09 de la carte, ou modifié vers un autre port acceptant le PWM dans le programme ![](https://github.com/verdieranatole-hub/V-plotter-sur-table-a-dessin/blob/main/images/branchement_servo.jpg)
 - brancher l'autre extrémité du cable au servo, en générale la couleur la plus proche du noir est le neutre, celle la plus proche du rouge l'alimentation et celle d'une autre couleur est l'information, se référer à la documentation de votre servomoteur pour plus d'information.
-- brancher les moteurs ne refermer pas le couvercle, vous saurez si vous vous êtes trompé de sens pour ceci une fois les premiers essais effectué.
+- brancher les moteurs ne refermez pas le couvercle, vous saurez si vous vous êtes trompé de sens pour ceux-ci une fois les premiers essais effectué.
 
 ## étape 4: programmation des deux cartes
 
@@ -47,7 +47,7 @@ téléversez simplement le programme servomoteur.ino dans la carte
 
 La solution la plus simple consiste à placer un bout de scotch afin de repérer visuellement le zero, sur lequel vous viendrez mesurer la longeur des courroies à l'aide d'un mètre ruban une fois ceci fait vous pourrez garder les mêmes longueur initial de courroie pour le reste de vos impressions à condition de partir initialement de ce repère bien que ce genre de repères soit à peu près suffisant pour configeurer la machine, il reste insuffisament précis pour permettre par exemple d'utiliser plusieurs couleurs au cours d'une même impression.
 
-Une solution un peu plus précise serait de mettre un coin, à un emplacement donné du tableau et de venir calé physiquement le V-plotter dans le coin en désactivant les moteurs.
+Une solution un peu plus précise serait de mettre un coin, à un emplacement donné du tableau et de venir calé physiquement le V-plotter dans le coin en désactivant les moteurs. Là aussi mesurer au mètre ruban la longeur des courroies et noté cette valeur.
 
 ## étape 6: paramétrage de UGS
 Afin d'envoyer les instructions à la machine ont utilise ugs, un logicielle gratuit, open source dont le lien est disponible [ici](https://winder.github.io/ugs_website/download/). Les prochaines étapes concernent le paramétrage de la machine.
